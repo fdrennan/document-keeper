@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://fdrennan:thirdday1@localhost:27017/admin",
+    "jwtSecret": "secret"
+}
